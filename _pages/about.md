@@ -10,12 +10,12 @@ redirect_from:
 
 Hi! I am a fourth year Ph.D. student majoring in Computer Engineering from the ECE department at [Virginia Tech](https://ece.vt.edu/). I work in the Network and Software Security Lab supervised by [Dr. Angelos Stavrou](https://computing.ece.vt.edu/~angelos/) and [Dr. Haining Wang](https://scholar.google.com/citations?user=tmOInzMAAAAJ&hl=en). My research interests broadly lie in the network security domain, particularly in 5G, IoT and SDN security. My current work focuses on cybersecurity adversarial learning environments in virtualized networks.
 
-**Industrial Experience**
+## Industrial Experience
 
 In the summer of 2022, I interned at [Kryptowire Labs](https://www.kryptowirelabs.com/), researching decentralized trust and identity management solutions. Prior to commencing my doctoral studies, I worked for two and a half years as a Senior Design Engineer at [Cadence Design Systems](https://www.cadence.com/en_US/home.html) in India, contributing to the [Tensilica Digital Signal Processors (DSP)](https://www.cadence.com/en_US/home/tools/ip/tensilica-ip.html) division.
 
 
-**Background**
+## Background
 
 I received my B.Tech and M.Tech in Electrical Engineering with a specialization in Communication and Signal Processing from the esteemed [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/) in 2018. 
 
