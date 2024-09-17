@@ -1,17 +1,18 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/PragyaCV.pdf
+  
+  - title: "Publications"
+    url: /publications/
 
   - title: "Awards"
     url: /awards/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Projects"
     url: /projects/       
  
+  - title: "CV"
+    url: /cv/
+
   - title: "Leadership"
     url: /leadership/
 
