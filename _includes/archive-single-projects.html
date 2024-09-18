@@ -14,8 +14,25 @@
 
 <style>
   ul {
-    list-style-image: url(/images/5g-base-station.jpg);
-    margin-left: 40px;
+    list-style-type: none; /* Hide default list marker */
+    padding-left: 0; /* Optional: to remove extra padding */
+  }
+
+  ul li {
+    position: relative;
+    padding-left: 40px; /* Adjust based on the size of your image */
+  }
+
+  ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 24px; /* Adjust width as needed */
+    height: 24px; /* Adjust height as needed */
+    background: url(/images/5g-base-station.jpg) no-repeat center center;
+    background-size: contain; /* Ensure the image scales correctly */
   }
 </style>
 
