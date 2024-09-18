@@ -12,6 +12,13 @@
   {% assign title = post.title %}
 {% endif %}
 
+<style>
+  ul {
+    list-style-image: url(./images/5g-base-station.jpg);
+    margin-left: 40px;
+  }
+</style>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -26,7 +33,7 @@
       </div>
     {% endif %}
 
-    <ol>
+    <ul>
       <li>
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
@@ -43,7 +50,7 @@
       {% endif %}
       
       </li>
-    </ol>
+    </ul>
     
 
   </article>
