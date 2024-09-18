@@ -2,6 +2,7 @@
 title: "5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices"
 collection: "projects"
 date: May 2022 - Jun 2023
+---
 
 * Designed and implemented a decentralized authorization framework for the 5G core service access among VNFs by utilizing WAVE to eliminate the security vulnerabilities caused by a central OAuth2.0 authorization server.
 
