@@ -1,17 +1,17 @@
 # main links links
 main:
   
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards"
-    url: /awards/
-
   - title: "Projects"
     url: /projects/       
- 
-  - title: "CV"
-    url: /cv/
+
+  - title: "Awards"
+    url: /awards/
 
   - title: "Leadership"
     url: /leadership/

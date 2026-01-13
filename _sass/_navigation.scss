@@ -216,6 +216,10 @@
         }
       }
 
+      &:nth-child(2) {
+        padding-left: 3.2em;
+      }
+
       &:last-child {
         a {
           margin-right: 0;
