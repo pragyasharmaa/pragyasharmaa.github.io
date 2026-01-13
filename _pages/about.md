@@ -8,16 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth year Ph.D. student majoring in Computer Engineering from the ECE department at [Virginia Tech](https://ece.vt.edu/). I work in the Network and Software Security Lab supervised by [Dr. Angelos Stavrou](https://computing.ece.vt.edu/~angelos/) and [Dr. Haining Wang](https://scholar.google.com/citations?user=tmOInzMAAAAJ&hl=en). My research interests broadly lie in the network security domain, particularly in 5G, IoT and SDN security. My current work focuses on cybersecurity adversarial learning environments in virtualized networks.
+Hi! I am Ph.D. candidate at the Department of Electrical and Computer Engineering (ECE), Virginia Tech. I am part of the [Networks and Systems Security Lab (NSSL)](https://nss.ece.vt.edu/) supervised by [Dr. Angelos Stavrou](https://computing.ece.vt.edu/~angelos/) and [Dr. Haining Wang](https://scholar.google.com/citations?user=tmOInzMAAAAJ&hl=en). My research interests broadly lie in the network security domain, particularly in cellular network security. My current work focuses on investigating adversarial machine learning attacks in 5G cellular system.
 
-## Industrial Experience
+## Work Experience
 
-In the summer of 2022, I interned at [Kryptowire Labs](https://www.kryptowirelabs.com/), researching decentralized trust and identity management solutions. Prior to commencing my doctoral studies, I worked for two and a half years as a Senior Design Engineer at [Cadence Design Systems](https://www.cadence.com/en_US/home.html) in India, contributing to the [Tensilica Digital Signal Processors (DSP)](https://www.cadence.com/en_US/home/tools/ip/tensilica-ip.html) division.
+- During Summer 2025, I interned at [Futurewei Technologies](https://www.futurewei.com/) with the Wireless Research and Standards team at Addison, Texas; designing solutions for 6G core network architecture for local subnetworks.
+- In the Summer of 2022, I interned at [Kryptowire Labs](https://www.kryptowirelabs.com/), researching decentralized trust and identity management solutions. 
+- Prior to commencing my doctoral studies, I worked a Senior Design Engineer (2.5 YoE) at [Cadence Design Systems](https://www.cadence.com/en_US/home.html) in India, contributing to the [Tensilica Digital Signal Processors (DSP)](https://www.cadence.com/en_US/home/tools/ip/tensilica-ip.html) division.
 
 
 ## Background
 
 I received my B.Tech and M.Tech in Electrical Engineering with a specialization in Communication and Signal Processing from the esteemed [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/) in 2018. 
+
+
+<div>
+<h2>Updates</h2>
+<ul>
+  <li><span class="news-date"> [Jan 2026] </span> - Awarded Pratt Fellowship by Department of ECE, Virginia Tech </li>
+  <li><span class="news-date"> [Nov 2025] </span> - 🎓 I passed my Ph.D. Preliminary Exam! </li>
+  <li><span class="news-date"> [Nov 2025] </span> - 🎉 Our paper titled <i>"Towards xApp Conflict Evaluation with Explainable Machine Learning and Causal Inference in O-RAN"</i> was accepted and won <b>Best Paper Award</b> at <a href="https://nfvsdn2025.ieee-nfvsdn.org/">IEEE NFV-SDN</a> 2025</li>
+  <li><span class="news-date"> [May 2025] </span> - Summer internship as Wireless Research Intern at <a href="https://www.futurewei.com/"> Futurewei Technologies </a> </li>
+  <li><span class="news-date"> [Aug 2024] </span> - 🎉 Our paper titled <i>"FedMADE: Robust Federated Learning for Intrusion Detection in IoT Networks Using a Dynamic Aggregation Method"</i> was accepted at <a href="https://isc24.cs.gmu.edu/">Information Security Conference (ISC)</a>, 2024 </li>
+  <li><span class="news-date"> [May 2024] </span> - I presented our paper <i>5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices</i> at IEEE INFOCOM 2024 in Vancouver, Canada. </li>
+  <li><span class="news-date"> [Apr 2024] </span> - 🎓 I passed my Ph.D. Qualifying Exam!</li>
+  <li><span class="news-date"> [Jan 2024] </span> - Awarded Pratt Fellowship by Department of ECE, Virginia Tech </li>
+  <li><span class="news-date"> [Dec 2023] </span> - 🎉 Our paper <i>"5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices"</i> got accepted at <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM</a> 2024 (Core A* ranked) </li>
+  <li><span class="news-date"> [May 2022] </span> - Summer internship at Kryptowire Labs (now <a href="https://www.a2labs.com/">A2 Labs</a>) </li>
+  
+
+</ul>
+
+</div>
 
 
 {% comment %} 
