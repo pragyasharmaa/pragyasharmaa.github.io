@@ -1,15 +1,5 @@
 ---
-title: "5G-ORAN: Conflict Mitigation"
+title: "xApp Conflict Management in O-RAN"
 collection: "projects"
-excerpt: "5G mobile networks leverage Network Function Virtualization (NFV) to offer services in the form of network slices. Each network slice is a logically isolated fragment constructed by service chaining a set of Virtual Network Functions (VNFs). The Network Repository Function (NRF) acts as a central OpenAuthorization (OAuth) 2.0 server to secure inter-VNF communications resulting in a single point of failure. Thus, we propose 5G-WAVE, a decentralized authorization framework for the 5G core by leveraging the WAVE framework and integrating it into the OpenAirInterface (OAI) 5G core. Our design relies on Side-Car Proxies (SCPs) deployed alongside individual VNFs, allowing point-to-point authorization. Each SCP acts as a WAVE engine to create entities and attestations and verify incoming service requests. We measure the authorization latency overhead for VNF registration, 5G Authentication and Key Agreement (AKA), and data session setup and observe that WAVE verification introduces 155ms overhead to HTTP transactions for decentralizing authorization. Additionally, we evaluate the scalability of 5G-WAVE by instantiating more network slices to observe 1.4x increase in latency with 10x growth in network size. We also discuss how 5G-WAVE can significantly reduce the 5G attack surface without using OAuth 2.0 while addressing several key issues of 5G standardization."
----
-
-* Designed and implemented a decentralized authorization framework for the 5G core service access among VNFs by utilizing WAVE to eliminate the security vulnerabilities caused by a central OAuth2.0 authorization server.
-
-* Deployed the 5G-WAVE platform on a Kubernetes cluster with OpenAirInterface (OAI) entities as 5G VNFs.
-Modified the design to offload authorization among VNFs onto side-car proxies (SCPs) which enable service
-access by creation and verification of WAVE attestations.
-
-* Measured time cost based performance of service operations in 5G-WAVE in network slice deployments to
-analyze latency overhead and scalability of the design with multiple slices.
+excerpt: "The Open Radio Access Network (O-RAN) architecture enables a flexible, vendor-neutral deployment of 5G networks by disaggregating base station components and supporting third-party xApps for near real-time RAN control. However, the concurrent operation of multiple xApps can lead to conflicting control actions, which may cause network performance degradation. In this work, we propose a framework for xApp conflict management that combines explainable machine learning and causal inference to evaluate the causal relationships between RAN Control Parameters (RCPs) and Key Performance Indicators (KPIs). We use model explainability tools such as SHAP to identify RCPs that jointly affect the same KPI, signaling potential conflicts, and represent these interactions as a causal Directed Acyclic Graph (DAG). We then estimate the causal impact of each of these RCPs on their associated KPIs using metrics such as Average Treatment Effect (ATE) and Conditional Average Treatment Effect (CATE). This approach offers network operators guided insights into identifying conflicts and quantifying their impacts, enabling more informed and effective conflict resolution strategies across diverse xApp deployments."
 ---
