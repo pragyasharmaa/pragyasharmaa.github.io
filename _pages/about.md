@@ -24,22 +24,62 @@ I received my B.Tech and M.Tech in Electrical Engineering with a specialization 
 
 <div>
 <h2>Updates</h2>
-<ul>
-  <li><span class="news-date"> [Jun 2026] </span> - 💼 Summer internship as AI-based Cybersecurity Research Intern at <a href="https://www.futurewei.com/"> Nokia Bell Labs, Murray Hill, NJ</a>. </li>
-  <li><span class="news-date"> [Mar 2026] </span> - 🎉 Our paper titled <i>"VulLens: Enhancing Software Vulnerability Detection against Evasion Attacks"</i> was accepted at <a href="https://dsn2026.github.io/">IEEE/IFIP DSN</a> 2026 (Core A ranked). </li>
-  <li><span class="news-date"> [Jan 2026] </span> - Awarded Pratt Fellowship by Department of ECE, Virginia Tech. </li>
-  <li><span class="news-date"> [Nov 2025] </span> - 🎓 I passed my Ph.D. Preliminary Exam! </li>
-  <li><span class="news-date"> [Nov 2025] </span> - 🎉 Our paper titled <i>"Towards xApp Conflict Evaluation with Explainable Machine Learning and Causal Inference in O-RAN"</i> was accepted and won <b>Best Paper Award</b> at <a href="https://nfvsdn2025.ieee-nfvsdn.org/">IEEE NFV-SDN</a> 2025. </li>
-  <li><span class="news-date"> [May 2025] </span> - 💼 Summer internship as Wireless Research Intern at <a href="https://www.futurewei.com/"> Futurewei Technologies, Addison, TX</a>. </li>
-  <li><span class="news-date"> [Aug 2024] </span> - 🎉 Our paper titled <i>"FedMADE: Robust Federated Learning for Intrusion Detection in IoT Networks Using a Dynamic Aggregation Method"</i> was accepted at <a href="https://isc24.cs.gmu.edu/">Information Security Conference (ISC)</a>, 2024. </li>
-  <li><span class="news-date"> [May 2024] </span> - I presented our paper <i>5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices</i> at IEEE INFOCOM 2024 in Vancouver, Canada. </li>
-  <li><span class="news-date"> [Apr 2024] </span> - 🎓 I passed my Ph.D. Qualifying Exam!</li>
-  <li><span class="news-date"> [Jan 2024] </span> - Awarded Pratt Fellowship by Department of ECE, Virginia Tech. </li>
-  <li><span class="news-date"> [Dec 2023] </span> - 🎉 Our paper <i>"5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices"</i> got accepted at <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM</a> 2024 (Core A* ranked). </li>
-  <li><span class="news-date"> [May 2022] </span> - 💼 Summer internship at Kryptowire Labs, McLean, VA (now <a href="https://www.a2labs.com/">A2 Labs</a>). </li>
-  
-
-</ul>
+<table style="border-collapse: collapse; border: none; width: 100%; font-size: inherit;">
+  <tbody>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Jun 2026]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">💼 Summer Research Internship at <a href="https://www.nokia.com/bell-labs/"> Nokia Bell Labs</a>, Murray Hill, NJ.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Mar 2026]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">🎉 Our paper titled <i>"VulLens: Enhancing Software Vulnerability Detection against Evasion Attacks"</i> was accepted at <a href="https://dsn2026.github.io/">IEEE/IFIP DSN</a> 2026 (Core A ranked).</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Jan 2026]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">Awarded Pratt Fellowship by Department of ECE, Virginia Tech.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Nov 2025]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">🎓 I passed my Ph.D. Preliminary Exam!</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Nov 2025]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">🎉 Our paper titled <i>"Towards xApp Conflict Evaluation with Explainable Machine Learning and Causal Inference in O-RAN"</i> was accepted and won <b>Best Paper Award</b> at <a href="https://nfvsdn2025.ieee-nfvsdn.org/">IEEE NFV-SDN</a> 2025.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[May 2025]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">💼 Summer Research Internship at <a href="https://www.futurewei.com/"> Futurewei Technologies</a>, Addison, TX.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Aug 2024]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">🎉 Our paper titled <i>"FedMADE: Robust Federated Learning for Intrusion Detection in IoT Networks Using a Dynamic Aggregation Method"</i> was accepted at <a href="https://isc24.cs.gmu.edu/">Information Security Conference (ISC)</a>, 2024.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[May 2024]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">I presented our paper <i>5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices</i> at IEEE INFOCOM 2024 in Vancouver, Canada.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Apr 2024]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">🎓 I passed my Ph.D. Qualifying Exam!</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Jan 2024]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">Awarded Pratt Fellowship by Department of ECE, Virginia Tech.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Dec 2023]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">🎉 Our paper <i>"5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices"</i> got accepted at <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM</a> 2024 (Core A* ranked).</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[May 2022]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">💼 Summer Research Internship at Kryptowire Labs (now <a href="https://www.a2labs.com/">A2 Labs</a>), McLean, VA.</td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0 0;"><span class="news-date">[Jan 2021]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0;">Started PhD in the Department of ECE at Virginia Tech, Arlington campus.</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
