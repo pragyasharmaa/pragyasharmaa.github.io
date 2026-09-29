@@ -27,6 +27,10 @@ I received my B.Tech and M.Tech in Electrical Engineering with a specialization 
 <table style="border-collapse: collapse; border: none; width: 100%; font-size: inherit;">
   <tbody>
     <tr>
+      <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Sep 2026]</span></td>
+      <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">Awarded Pratt Fellowship by Department of ECE, Virginia Tech.</td>
+    </tr>
+    <tr>
       <td style="border: none; vertical-align: top; white-space: nowrap; padding: 0 0.75rem 0.35rem 0;"><span class="news-date">[Jun 2026]</span></td>
       <td style="border: none; vertical-align: top; padding: 0 0 0.35rem 0;">💼 Summer Research Internship at <a href="https://www.nokia.com/bell-labs/"> Nokia Bell Labs</a>, Murray Hill, NJ.</td>
     </tr>
